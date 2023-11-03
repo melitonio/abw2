@@ -1,33 +1,66 @@
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\appsettings.json
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\netwebApi01.exe
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\netwebApi01.deps.json
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\netwebApi01.runtimeconfig.json
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\netwebApi01.dll
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\netwebApi01.pdb
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.csproj.AssemblyReference.cache
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.AssemblyInfoInputs.cache
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.AssemblyInfo.cs
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.csproj.CoreCompileInputs.cache
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\staticwebassets\msbuild.netwebApi01.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\staticwebassets\msbuild.build.netwebApi01.props
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.netwebApi01.props
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.netwebApi01.props
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\scopedcss\bundle\netwebApi01.styles.css
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.csproj.CopyComplete
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.dll
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\refint\netwebApi01.dll
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.pdb
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\netwebApi01.genruntimeconfig.cache
-C:\Users\Meliton\source\repos\melitonio\abw2\netwebApi01\obj\Debug\net7.0\ref\netwebApi01.dll
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/appsettings.json
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/netwebApi01.exe
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/netwebApi01.deps.json
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/netwebApi01.runtimeconfig.json
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/netwebApi01.dll
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/netwebApi01.pdb
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.csproj.AssemblyReference.cache
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.AssemblyInfoInputs.cache
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.AssemblyInfo.cs
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.csproj.CoreCompileInputs.cache
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets/msbuild.netwebApi01.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets/msbuild.build.netwebApi01.props
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.netwebApi01.props
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.netwebApi01.props
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/scopedcss/bundle/netwebApi01.styles.css
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.csproj.CopyComplete
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.dll
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/refint/netwebApi01.dll
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.pdb
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.genruntimeconfig.cache
+C:/Users/Meliton/source/repos/melitonio/abw2/netwebApi01/obj/Debug/net7.0/ref/netwebApi01.dll
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/appsettings.Development.json
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/appsettings.json
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/netwebApi01
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/netwebApi01.deps.json
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/netwebApi01.runtimeconfig.json
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/netwebApi01.dll
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/netwebApi01.pdb
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/meliton/VS Code/abw2/netwebApi01/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.csproj.AssemblyReference.cache
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.AssemblyInfoInputs.cache
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.AssemblyInfo.cs
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.csproj.CoreCompileInputs.cache
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.MvcApplicationPartsAssemblyInfo.cs
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.MvcApplicationPartsAssemblyInfo.cache
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets/msbuild.netwebApi01.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets/msbuild.build.netwebApi01.props
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.netwebApi01.props
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.netwebApi01.props
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets.build.json
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/staticwebassets.development.json
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/scopedcss/bundle/netwebApi01.styles.css
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.csproj.CopyComplete
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.dll
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/refint/netwebApi01.dll
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.pdb
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/netwebApi01.genruntimeconfig.cache
+/Users/meliton/VS Code/abw2/netwebApi01/obj/Debug/net7.0/ref/netwebApi01.dll

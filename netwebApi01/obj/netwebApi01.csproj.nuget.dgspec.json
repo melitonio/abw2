@@ -1,29 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Meliton\\source\\repos\\melitonio\\abw2\\netwebApi01\\netwebApi01.csproj": {}
+    "/Users/meliton/VS Code/abw2/netwebApi01/netwebApi01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Meliton\\source\\repos\\melitonio\\abw2\\netwebApi01\\netwebApi01.csproj": {
+    "/Users/meliton/VS Code/abw2/netwebApi01/netwebApi01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Meliton\\source\\repos\\melitonio\\abw2\\netwebApi01\\netwebApi01.csproj",
+        "projectUniqueName": "/Users/meliton/VS Code/abw2/netwebApi01/netwebApi01.csproj",
         "projectName": "netwebApi01",
-        "projectPath": "C:\\Users\\Meliton\\source\\repos\\melitonio\\abw2\\netwebApi01\\netwebApi01.csproj",
-        "packagesPath": "C:\\Users\\Meliton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Meliton\\source\\repos\\melitonio\\abw2\\netwebApi01\\obj\\",
+        "projectPath": "/Users/meliton/VS Code/abw2/netwebApi01/netwebApi01.csproj",
+        "packagesPath": "/Users/meliton/.nuget/packages/",
+        "outputPath": "/Users/meliton/VS Code/abw2/netwebApi01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Meliton\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/meliton/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "/usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -69,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
         }
       }
     }

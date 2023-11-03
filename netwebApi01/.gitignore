@@ -1,0 +1,78 @@
+# Archivos generados por la compilación
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Archivos generados por Visual Studio Code
+.vscode/
+
+# Archivos de la tienda de certificados de ASP.NET HTTPS
+Properties/launchSettings.json
+
+# Archivos de configuración local
+appsettings.Development.json
+appsettings.Production.json
+
+# Herramientas de usuario de Visual Studio (archivo de configuración)
+*.user
+*.userosscache
+*.suo
+
+# Paquetes NuGet descargados
+packages/
+
+# Herramientas de Resharper
+_ReSharper*/
+
+# Herramientas de TeamCity
+_Teamcity*
+
+# Archivos de build - Descomenta esto si no deseas incluir archivos de build en tu repositorio.
+#wwwroot/
+
+# Archivos y carpetas ignorados por macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos y carpetas ignorados por Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Carpetas de node/npm
+node_modules/
+npm-debug.log
+
+# Herramientas de desarrollo
+/.idea/
+*.swp
+*.swo
+
+# Archivos de base de datos locales SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Archivos de configuración de Docker
+docker-compose*.yml
+
+# Archivos y carpetas para NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Archivos generados por Rider
+.idea/
+
+# Archivos generados por Windows Image Backup
+Desktop.ini
+
+# Archivos generados por Python
+__pycache__/
+
+# Certificados generados por dotnet dev-certs
+**/*.pfx
+**/*.cer
+**/*.crt
+**/*.key
+
